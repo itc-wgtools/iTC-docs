@@ -4,8 +4,8 @@
 :table-caption: Table
 :imagesdir: images
 :icons: font
-:revnumber: 0.2
-:revdate: 2019-07-30
+:revnumber: 0.3
+:revdate: 2019-09-11
 :xrefstyle: full
 
 :iTC-longname: Coffee Maker
@@ -56,7 +56,7 @@ This iTC is open to all interested persons who have an active role in this techn
 {iTC-email}
 
 === Principles
-The {iTC-shortname} should be working in manners that promote fair competition and meet the six principles of international standardisation determined by the WTO-TBT. See G/TBT/1/Rev.9 (8 September 2008) “DECISIONS AND RECOMMENDATIONS ADOPTED BY THE WTO COMMITTEE ON TECHNICAL BARRIERS TO TRADE SINCE 1 JANUARY 1995”.
+The {iTC-shortname} should be working in manners that promote fair competition and meet the six principles of international standardisation determined by the WTO-TBT. See G/TBT/1/Rev.13 (8 March 2017) "DECISIONS AND RECOMMENDATIONS ADOPTED BY THE WTO COMMITTEE ON TECHNICAL BARRIERS TO TRADE SINCE 1 JANUARY 1995" <<5>> or later revision.
 
 * Transparency
 * Openness
@@ -288,3 +288,4 @@ Other SMEs can come from a wide range of background, including government techni
 * [#2]#[2]# {iTC-longname} International Technical Community - Key Persons and Affiliations, {iTC-website}[Online] (link when available)
 * [#3]#[3]# Establishing International Technical Communities and collaborative Protection Profiles development, http://www.commoncriteriaportal.org/files/communities/Establishing%20iTCs%20and%20cPP%20development%20-%20v0-7.pdf[Online]
 * [#4]#[4]# ISO CODE OF CONDUCT FOR THE TECHNICAL WORK, https://www.iso.org/publication/PUB100397.html[Online]
+* [#5]#[5]#  DECISIONS AND RECOMMENDATIONS ADOPTED BY THE WTO COMMITTEE ON TECHNICAL BARRIERS TO TRADE SINCE 1 JANUARY 1995, https://docs.wto.org/dol2fe/Pages/FE_Search/FE_S_S006.aspx?Query=(%20@Symbol=%20g/tbt/1/rev*)&Language=ENGLISH&Context=FomerScriptedSearch&languageUIChanged=true#[Online Search]
