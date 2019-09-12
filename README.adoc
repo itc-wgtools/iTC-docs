@@ -1,8 +1,59 @@
-= README
+= Introduction to cPP-Tools Repository
 
-== Introduction
-This is the repository for the Coffee Maker iTC. 
+As the number of iTCs grows, it has fallen on each iTC to figure out how to manage the process of creating and managing the process of creating the cPP and Supporting Documents. Even the processes for updates and technical decisions is new.
 
-Provide a simple message about what the iTC is doing here (i.e. if you have multiple repositories, state what you are doing in each one of them). 
+While there is no single "right way" to manage an iTC, the purpose of this WG and its repositories is to produce a set of guidance and templates that can be used to help iTCs perform these tasks using the knowledge and experience of those that have come before. 
 
-Check out the main page for the iTC at <GITHUB.IO site here>.
+The home page for the group, which covers updates as well as the guidance documentation, is https://itc-wgtools.github.io. 
+
+This repository is focused on the documentation for the iTC itself, things like the Essential Security Requirements and the Terms of Reference. These are to help the iTC get up and running with templates for all the documents they need already in a usable format.
+
+The https://github.com/itc-wgtools/cPP-Tools[cPP-Tools] repository is the primary repository for the overall work being done by the WG, and the https://github.com/itc-wgtools/cPP-Tools/wiki[wiki] there has a lot of supplemental information.
+
+If you are interested in joining the Team Tools Working Group, please email "be.wood at samsung.com" with your GitHub ID.
+
+== Template Files in this Repository
+Within each repository are a number of files being worked on. The following table is the list of the primary files being edited in cPP-Tools. 
+
+[cols=".^1,.^3",options="header"]
+|===
+|File
+|Description
+
+|README-template.adoc
+|This is a sample README file for the repository. It will be displayed automatically below the code window on the home page of the repository.
+
+|ESR-template.adoc
+|A template for the Essential Security Requirements document that would be created by the Working Group.
+
+|iTC-ToR.adoc
+|A template for the iTC Terms of Reference.
+
+|CC Portal Page.adoc
+|This is a template for the contents that would be placed on the https://www.commoncriteriaportal.org/communities/index.cfm[Common Criteria Communities] page for the iTC.
+
+|iTC-Invitation-Letter-template.adoc
+|This is a template for the official invitation letter to join the iTC. This is posted to the community page for the iTC on the Common Criteria Portal (it can also be posted on the iTC home page).
+
+|iTC_status_table.adoc
+|A template for providing a status update on the progress of the iTC. 
+
+|iTC_Work_Plan_template.adoc
+|This is a template for the table of the overall work plan for the creation of the cPP and related documents.
+
+|PP-Config.adoc
+|A template for documenting what other cPPs, PP-Modules or Packages can be used with the cPP(s) created by the iTC.
+
+|Review_Process.adoc
+|A template for how an iTC would publish drafts for public review and manage the process (phases, time periods, etc).
+
+|Public_Review_Draft_template.adoc
+|A template for announcing a document for public review.
+
+|Comments-Matrix-template.xlsx
+|An Excel spreadsheet template that can be used for accepting comments during public review.
+
+|Vote_email_template.txt
+|A template for an email to be sent out announcing a call for the iTC membership to vote on a topic.
+
+|===
