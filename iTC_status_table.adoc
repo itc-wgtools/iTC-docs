@@ -1,8 +1,8 @@
 = _Coffee Maker_ iTC (CM-iTC) Status <DATE>
 :showtitle:
 :table-caption: Table
-:revnumber: 0.2
-:revdate: 2019-08-23
+:revnumber: 0.3
+:revdate: 2020-01-29
 
 :iTC-longname: Coffee Maker
 :iTC-shortname: CM-iTC
@@ -11,7 +11,7 @@
 :iTC-GitHub: https://github.com/coffeemaker/repository/
 
 == General
-[cols="1,1,1"]
+[cols=".^1,.^1,.^1"]
 |====
 
 |*Chair:*
