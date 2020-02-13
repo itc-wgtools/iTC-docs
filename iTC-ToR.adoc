@@ -4,8 +4,8 @@
 :table-caption: Table
 :imagesdir: images
 :icons: font
-:revnumber: 0.3
-:revdate: 2019-09-11
+:revnumber: 0.4
+:revdate: 2019-10-21
 :xrefstyle: full
 
 :iTC-longname: Coffee Maker
@@ -128,7 +128,7 @@ Other {iTC-shortname} members are encouraged to post comments in response to iss
 A typical issue should be resolved within a two week period. Some issues may require more time for study and deliberation or due to holidays or other events. 
 
 === Voting
-Decision shall be taken on the basis of the consensus principle.
+Decisions shall be taken on the basis of the consensus principle whenever possible.
 
 [quote,ISO/IEC Guide 2:2004]
 ____
@@ -137,18 +137,34 @@ Consensus: General agreement, characterized by the absence of sustained oppositi
 NOTE Consensus need not imply unanimity.
 ____
 
-[IMPORTANT]
+[REVIEW]
 ====
 When creating your ToR, it is important to understand that this section is not the only way to accomplish voting procedures for an iTC, but is a good one to follow. Any well-documented and transparent set of voting procedures should be acceptable for use.
 ====
 
-Voting is used infrequently as a way to formally decide on a particular issue or on the proposed completion of a development phase. 
+The {iTC-shortname} may define different classes of voting, but for votes related to the iTC itself, the process here defines how the voting will proceed. If the class of vote needed has not been defined, then the process here will be used by default.
 
+Voting is used infrequently as a way to formally decide on a particular iTC issue. The following would be considered iTC issues to require a formal vote:
+
+[GUIDANCE]
+====
+This is a short list and should be reviewed.
+====
+
+* Establishing formal working groups within the iTC (such as the Interpretation Team or special interest groups to work on specific areas)
+* Changes to the iTC governing documents (such as the Essential Security Requirements or Terms of Reference)
+* Public Review/Release of documents
+
+As determined by the iTC, additional voting classes will be defined in the documents where they will be used.
+
+==== Vote Eligibility
 Voting is limited specifically to the members defined at the time the vote is called. Membership in the {iTC-shortname} is defined as inclusion on the {iTC-shortname} mailing list.
 
 One vote is allowed for each member organization, not for each individual member, regardless of membership within the {iTC-shortname}. “Organization” is defined according to the definition adopted by the CCUF; for commercial enterprises, a parent company and all of its divisions and subsidiaries comprise one organization. It is the responsibility of each organization to determine which individual member will cast a vote on its behalf.
 
 Eligible voting organizations are determined at the time the Call for Votes is sent out based on inclusion on the {iTC-shortname} mailing list. Any organization not included on this list at the time the Call for Votes is posted is ineligible to cast a vote.
+
+==== Vote Workflow
 
 As a guideline, voting takes place according to the following process:
 
@@ -179,6 +195,8 @@ This process is illustrated, below. Timing for each part of the process is provi
 
 Votes submitted shall be explicit: positive, negative, or abstention. A positive vote may be accompanied by editorial or technical comments, on the understanding that the iTC Chair or Technical Editor (as applicable) will decide how to deal with them. If a voting member finds the proposal unacceptable, it shall vote negatively and state the technical reasons. It may indicate that the acceptance of specified technical modifications will change its negative vote to one of approval, but it shall not cast an affirmative vote which is conditional on the acceptance of modifications.
 
+==== Vote Counting
+
 A vote is approved if:
 
 . A two-thirds majority of the Counted votes of the {iTC-shortname} are positive, and
@@ -196,7 +214,7 @@ An organization submitting multiple non-matching votes is allowed to determine t
 
 Abstentions and negative votes not accompanied by technical reasons are not considered to be Counted votes in the final total. They will be noted in the record only.
 
-[IMPORTANT]
+[GUIDANCE]
 ====
 An iTC may decide they need to have different classes of voting based on different "classes" of actions. For example moving to a Public Review Draft may require a higher vote than accepting changes into the Master branch (or other classifications). It is acceptable to specify different voting requirements based on different needs as long as it is clearly defined when the types of votes need to be used.
 
