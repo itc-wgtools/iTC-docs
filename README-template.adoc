@@ -1,6 +1,6 @@
 = README
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.adoc)
+image:https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg[code_of_conduct.adoc]
 
 == Introduction
 This is the repository for the Coffee Maker iTC. 
