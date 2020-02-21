@@ -68,22 +68,22 @@ The {iTC-shortname} should be working in manners that promote fair competition a
 If the {iTC-shortname} finds any of the principles not to be appropriate, it should inform the CCDB via the Liaison on what exceptions would be required.
 
 === Code of Conduct
-The {iTC-shortname} draws from the ISO Code of Conduct for the technical Work <<4>>.
+The {iTC-shortname} draws from the ISO Code of Conduct for the technical Work <<4>> and the Contributor Covenant Code of Conduct <<6>>.
 
 [cols=".^1,.^2"]
 |===
 
 |Work for the net benefit of the international community
-|We recognize that the development of International Standards is for the net benefit of the international community, over and above the interests of any individual or organization. We are committed to advancing International Standards within their agreed scope and we will not hinder their development.
+|We recognize that the development of collaborative Protection Profiles is for the net benefit of the international community, over and above the interests of any individual or organization. We are committed to advancing collaborative Protection Profiles within their agreed scope and we will not hinder their development.
 
 |Uphold consensus and governance
-|We will uphold the key principles of International Standardization: consensus, transparency, openness, impartiality, effectiveness, relevance, coherence and the development dimension.
+|We will uphold the key principles of International Standardization in the creation of collaborative Protection Profiles: consensus, transparency, openness, impartiality, effectiveness, relevance, coherence and the development dimension.
 
 |Agree to a clear purpose and scope
-|We are committed to having a clear purpose, scope, objectives, and plan to ensure the timely development of International Standards.
+|We are committed to having a clear purpose, scope, objectives, and plan to ensure the timely development of collaborative Protection Profiles.
 
 |Participate actively and manage effective representation	
-|We agree to actively participate in standards development projects. We will make our contributions to the work through the official procedures in accordance with the ISO/IEC Directives.
+|We agree to actively participate in standards development projects. We will make our contributions to the work through the agreed upon tools and procedures in accordance with the iTC guidance documents.
 
 |Escalate and resolve disputes
 |We will identify and escalate disputes in a timely manner to ensure rapid resolution. We will uphold the agreed dispute resolution processes.
@@ -91,8 +91,8 @@ The {iTC-shortname} draws from the ISO Code of Conduct for the technical Work <<
 |Behave ethically
 |We will act in good faith and with due care and diligence. We will avoid collusive or anticompetitive behaviour. We will promote a culture of fair and ethical behaviour.
 
-|Respect others in meetings
-a|We are committed to respecting others and the professional culture of international standardization within ISO. In meetings we are committed to:
+|Follow a Code of Conduct
+a|We are committed to following a code of conduct in an open, welcoming and inclusive manner. In meetings we are committed to:
 
 * conducting ourselves in a professional manner
 * respecting others and their opinions
@@ -307,3 +307,4 @@ Other SMEs can come from a wide range of background, including government techni
 * [#3]#[3]# Establishing International Technical Communities and collaborative Protection Profiles development, http://www.commoncriteriaportal.org/files/communities/Establishing%20iTCs%20and%20cPP%20development%20-%20v0-7.pdf[Online]
 * [#4]#[4]# ISO CODE OF CONDUCT FOR THE TECHNICAL WORK, https://www.iso.org/publication/PUB100397.html[Online]
 * [#5]#[5]#  DECISIONS AND RECOMMENDATIONS ADOPTED BY THE WTO COMMITTEE ON TECHNICAL BARRIERS TO TRADE SINCE 1 JANUARY 1995, https://docs.wto.org/dol2fe/Pages/FE_Search/FE_S_S006.aspx?Query=(%20@Symbol=%20g/tbt/1/rev*)&Language=ENGLISH&Context=FomerScriptedSearch&languageUIChanged=true#[Online Search]
+* [#6]#[6]# Contributor Covenant Code of Conduct,  https://www.contributor-covenant.org/version/2/0/code_of_conduct/[Online]
