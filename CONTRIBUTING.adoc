@@ -32,10 +32,10 @@ The repositories where active work related to the cPP/SD are:
 |Repository
 |Description
 
-|{iTC-GitHub}/repo1[Repository 1]
+|{iTC-GitHub}repo1[Repository 1]
 |The repository for the cPP and SD
 
-|{iTC-GitHub}/repo2[Repository 2]
+|{iTC-GitHub}repo2[Repository 2]
 |The repository for the administrative documents related to the {iTC-shortname}
 
 |===
@@ -46,9 +46,9 @@ There are two types of contributions you can make to the {iTC-shortname}, Issues
 === Submitting Issues
 To help with submitting new Issues, several templates have been created to help prompt for the types of information we would like to see, but if for some reason, these don't meet your needs, feel free to submit a new issue from a blank template.
 
-Before creating a new issue though, please check the {iTC-GitHub}/repo1/issues?q=is%3Aissue+is%3Aclosed[list of Closed Issues] to see if this topic has already been discussed. Just because something is closed does not mean it can't be revisited, but opening new issues on existing (and especially closed) topics is not helpful to the community overall.
+Before creating a new issue though, please check the {iTC-GitHub}repo1/issues?q=is%3Aissue+is%3Aclosed[list of Closed Issues] to see if this topic has already been discussed. Just because something is closed does not mean it can't be revisited, but opening new issues on existing (and especially closed) topics is not helpful to the community overall.
 
-Go {iTC-GitHub}/repo1/issues/new/choose[here] to create a new Issue.
+Go {iTC-GitHub}repo1/issues/new/choose[here] to create a new Issue.
 
 If you are unfamiliar with GitHub, the CCUF Team Tools Working Group has created a https://itc-wgtools.github.io/user-guide/userguide.html[iTC User Guide] to walk through the functionality of GitHub for iTC members.
 
@@ -62,4 +62,4 @@ The iTC documents are generally written in https://asciidoctor.org[Asciidoctor] 
 
 The CCUF Team Tools Working Group has provided a syntax guide for the most common formatting codes that are used that can be downloaded from https://github.com/itc-wgtools/cPP-Tools/tree/master/User%20Guidance[here]. This is meant to be viewed in a text form, or in a program such as https://asciidocfx.com/[AsciidocFX] where you can see both the text and a rich text version live.
 
-The documents also contain several variables which are used to ensure consistent naming. Information about these variables can be found in the {iTC-GitHub}/repo1/Template_README.adoc[Template-README] document.
+The documents also contain several variables which are used to ensure consistent naming. Information about these variables can be found in the {iTC-GitHub}repo1/Template_README.adoc[Template-README] document.
