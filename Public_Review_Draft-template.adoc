@@ -3,8 +3,9 @@
 :toc:
 :toclevels: 3
 :table-caption: Table
-:revnumber: 0.2
-:revdate: 2019-08-14
+:doctype: book
+:revnumber: 0.3
+:revdate: 2020-06-03
 :xrefstyle: full
 
 :iTC-longname: Coffee Maker
@@ -38,21 +39,24 @@ The following are the documents included in this Public Review Draft 1 Period:
 
 .Review Documents
 [[DocTable]]
-[cols="3,1,2",options="header"]
+[cols="3,^.^1,^.^2",options="header"]
 |===
-|Title ^|Version ^|Link
+
+|Title
+|Version
+|Link
 
 |collaborative PP for {iTC-longname} feature
-.^|0.8
-^.^|{iTC-website}cPP-filename.pdf[Download cPP]
+|0.8
+|{iTC-website}cPP-filename.pdf[Download cPP]
 
 |PP-Configuration for base-cPP and PP-Modules
-.^|0.8
-^.^|{iTC-website}PPC-filename.pdf[Download PP-Configuration]
+|0.8
+|{iTC-website}PPC-filename.pdf[Download PP-Configuration]
 
 |Supporting Document Mandatory Technical Document: Evaluation Activities for collaborative PP-Module for Mobile biometric enrolment and verification - for unlocking the device -
-.^|0.3
-^.^|{iTC-website}SD-filename.pdf[Download Supporting Document]
+|0.3
+|{iTC-website}SD-filename.pdf[Download Supporting Document]
 
 |===
 
@@ -69,7 +73,7 @@ I have been using yellow (with cYEL) in the box that is the current phase. Other
 If you are making any adjustments to the Review Process from what is documented in your primary document, these should be called out here to be clear. They should have a separate heading to be clear.
 ====
 
-[ditaa]
+[ditaa,Review_Draft_Process,png]
 ....
                                   
     +----------+    +----------+   +----------+   +----------+   +----------+

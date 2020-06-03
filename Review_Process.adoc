@@ -3,8 +3,9 @@
 :toc:
 :toclevels: 3
 :table-caption: Table
-:revnumber: 0.1
-:revdate: 2019-08-14
+:doctype: book
+:revnumber: 0.2
+:revdate: 2020-06-03
 :xrefstyle: full
 
 :iTC-longname: Coffee Maker
@@ -27,7 +28,7 @@ Please email {iTC-email} if there are any questions about the Review process.
 == Document Release Process
 The {iTC-shortname} follows the document release process below for the publication of documents. While ideally the cPP and SD would be released at the same time, this may not be the case and different documents may pass through the review process in parallel.
 
-[ditaa]
+[ditaa,Review_Draft_Process,png]
 ....
                                   
     +----------+    +----------+   +----------+   +----------+   +----------+
@@ -55,8 +56,12 @@ The time periods here can be adjusted based on what the iTC thinks is best. The 
 
 .Review Timeline
 [[timeline]]
+[%header,cols=".^1,.^1,.^2"]
 |===
-|Phase |Time |Description
+
+|Phase
+|Time
+|Description
 
 |Internal Draft
 |
@@ -124,12 +129,14 @@ Email the spreadsheets to {iTC-email}.
 
 .Supporting Documents
 [[SupDocTable]]
-[cols="1,1",options="header"]
+[cols=".^1,^.^1",options="header"]
 |===
-|Title ^|Link
 
-.^|Comment Matrix
-^|{iTC-website}Comments-Matrix.xlsx[Download Comment Matrix]
+|Title
+|Link
+
+|Comment Matrix
+|{iTC-website}Comments-Matrix.xlsx[Download Comment Matrix]
 
 
 |===
