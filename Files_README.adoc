@@ -45,4 +45,10 @@ Most of the templates are written in Asciidoctor syntax. You should take a look 
 |Vote_email_template.txt
 |A template for an email to be sent out announcing a call for the iTC membership to vote on a topic.
 
+|cPP_Lifecycle.adoc
+|A template for showing the expected live cycle transitions for the cPP as new versions are created and old versions are retired.
+
+|Antitrust.txt
+|A sample antitrust statement that can be added to meeting notes/presentations. This has been copied from other similar organizations and should be acceptable to any organization with legal concerns about participation in the iTC.
+
 |===
