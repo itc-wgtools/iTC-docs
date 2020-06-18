@@ -4,8 +4,8 @@
 :toclevels: 3
 :table-caption: Table
 :imagesdir: images
-:revnumber: 0.2
-:revdate: 2020-04-09
+:revnumber: 0.3
+:revdate: 2020-06-03
 :xrefstyle: full
 
 :iTC-longname: Coffee Maker
@@ -95,7 +95,7 @@ While the iTC may specify these time periods for the transitions between version
 The practical implication of this transition period is that there should only be a 6 month overlap with multiple versions being available for use. The following diagram illustrates the time periods, showing the months from the initial release of v1.0 through to v2.0.
 
 [#transitions]
-[ditaa,"transition.png"]
+[ditaa,transition,png]
 ....
 /----------------------------\
 |  cPP v1.0     cRED         |
