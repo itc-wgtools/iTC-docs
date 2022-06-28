@@ -4,7 +4,7 @@
 :imagesdir: images
 :icons: font
 :revnumber: 0.2
-:revdate: 2019-08-23
+:revdate: 2022-06-28
 
 :iTC-longname: Coffee Maker
 :iTC-shortname: CM-iTC
@@ -14,11 +14,11 @@
 :pp-name: Coffee Maker cPP
 
 == Introduction
-This page lists the various cPPs and PP-Modules that are approved by the {iTC-shortname} to be used in conjunction with the {pp-name} in PP-Configurations.
+This page lists the various cPPs, PP-Modules and Packages that are approved by the {iTC-shortname} to be used in conjunction with the {pp-name} in PP-Configurations.
 
 [GUIDANCE]
 ====
-It may be necessary over time to explicitly reject cPPs (or specific versions) from inclusion with the cPP. There may also be cases where specific versions of the cPP are compatible with specific versions of other components. These should be noted (probably by adding columns to the table).
+It may be necessary over time to explicitly reject cPPs, PP-Modules or Packages (or specific versions them) from inclusion with the cPP. There may also be cases where specific versions of the cPP are compatible with specific versions of other components. These should be noted (probably by adding columns to the table).
 ====
 
 == Approved Components
